@@ -1,9 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2023-08-08T07:25:28.858Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.6" etag="E2dWrCpe2glEOfwYQJjc" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-08T07:39:13.677Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="W2E0nSvhscoiCbepsiYK" version="21.6.6" type="github">
   <diagram name="第 1 页" id="-sM2Icsaqd06QTDszNt_">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NThKjhoDEQNiclKJ26v_-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="NThKjhoDEQNiclKJ26v_-1" target="NThKjhoDEQNiclKJ26v_-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="295" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NThKjhoDEQNiclKJ26v_-1" value="P" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="110" y="255" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NThKjhoDEQNiclKJ26v_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.029;entryY=0.631;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="NThKjhoDEQNiclKJ26v_-2" target="NThKjhoDEQNiclKJ26v_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NThKjhoDEQNiclKJ26v_-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" source="NThKjhoDEQNiclKJ26v_-2" target="NThKjhoDEQNiclKJ26v_-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NThKjhoDEQNiclKJ26v_-2" value="queue" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="240" y="260" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NThKjhoDEQNiclKJ26v_-3" value="C1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="540" y="190" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="NThKjhoDEQNiclKJ26v_-4" value="C2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="540" y="310" width="70" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
